@@ -1,0 +1,29 @@
+.demo{
+    background-color: aqua;
+    border-color: white;
+    border-style: solid;
+}
+
+body{
+    text-align: center;
+}
+
+.container{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+.col{
+    background-color: aquamarine;
+    border-color: white;
+    border-style: solid;
+}
+
+#nobackground{
+    background-color: transparent;
+}
